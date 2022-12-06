@@ -5,8 +5,6 @@ import WorkSamples from "./components/js/WorkSamples"
 import Contact from "./components/js/Contact"
 import { useEffect } from 'react';
 function App() {
-  
-  
   return (
     <BrowserRouter>
       <div className="App">
